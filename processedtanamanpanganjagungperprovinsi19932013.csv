@@ -1,0 +1,694 @@
+nama_provinsi,tahun,luas_panen,produktivitas,produksi
+Prov. Nanggroe Aceh Darussalam,1993,17941,21.7,38924
+Prov. Sumatera Utara,1993,122039,22.23,271298
+Prov. Sumatera Barat,1993,12713,22,27969
+Prov. Riau,1993,10223,21.23,21699
+Prov. Jambi,1993,6619,15.42,10206
+Prov. Sumatera Selatan,1993,22853,21.02,48036
+Prov. Bengkulu,1993,20139,18.1,36449
+Prov. Lampung,1993,252827,22.91,579141
+Prov. Kepulauan Bangka Belitung,1993,0,0,0
+Prov. Kepulauan Riau,1993,0,0,0
+Prov. DKI Jakarta,1993,40,13,52
+Prov. Jawa Barat,1993,112988,24.27,274181
+Prov. Jawa Tengah,1993,489673,25.33,1240472
+Prov. D I Yogyakarta,1993,37726,20.86,78701
+Prov. Jawa Timur,1993,1012051,23.35,2363252
+Prov. Banten,1993,0,0,0
+Prov. Bali,1993,51038,20.72,105759
+Prov. Nusa Tenggara Barat,1993,26295,19.64,51650
+Prov. Nusa Tenggara Timur,1993,206058,17.78,366347
+Prov. Kalimantan Barat,1993,18331,13.29,24355
+Prov. Kalimantan Tengah,1993,2145,13.2,2831
+Prov. Kalimantan Selatan,1993,15137,12.35,18690
+Prov. Kalimantan Timur,1993,7676,15.72,12070
+Prov. Sulawesi Utara,1993,62350,19.9,124053
+Prov. Sulawesi Tengah,1993,12814,11.43,14647
+Prov. Sulawesi Selatan,1993,296481,18,533577
+Prov. Sulawesi Tenggara,1993,43402,18.84,81769
+Prov. Gorontalo,1993,0,0,0
+Prov. Sulawesi Barat,1993,0,0,0
+Prov. Maluku,1993,18814,13.32,25069
+Prov. Maluku Utara,1993,0,0,0
+Prov. Papua Barat,1993,0,0,0
+Prov. Papua,1993,3093,12.99,4017
+Prov. Nanggroe Aceh Darussalam,1994,13105,21.81,28578
+Prov. Sumatera Utara,1994,140941,22.13,311918
+Prov. Sumatera Barat,1994,15787,22.86,36083
+Prov. Riau,1994,15484,21.49,33274
+Prov. Jambi,1994,7825,14.49,11337
+Prov. Sumatera Selatan,1994,20014,18.14,36299
+Prov. Bengkulu,1994,17963,17.98,32303
+Prov. Lampung,1994,249581,22.56,563069
+Prov. Kepulauan Bangka Belitung,1994,0,0,0
+Prov. Kepulauan Riau,1994,0,0,0
+Prov. DKI Jakarta,1994,15,13.33,20
+Prov. Jawa Barat,1994,113486,24.14,273919
+Prov. Jawa Tengah,1994,492630,25.45,1253931
+Prov. D I Yogyakarta,1994,63139,21.44,135356
+Prov. Jawa Timur,1994,1117789,23.58,2636015
+Prov. Banten,1994,0,0,0
+Prov. Bali,1994,40251,21.19,85286
+Prov. Nusa Tenggara Barat,1994,27772,18.6,51647
+Prov. Nusa Tenggara Timur,1994,231247,17.25,398797
+Prov. Kalimantan Barat,1994,14947,12.77,19080
+Prov. Kalimantan Tengah,1994,3955,13.84,5475
+Prov. Kalimantan Selatan,1994,14972,12.53,18755
+Prov. Kalimantan Timur,1994,8113,15,12169
+Prov. Sulawesi Utara,1994,68052,19.94,135693
+Prov. Sulawesi Tengah,1994,11869,11.56,13716
+Prov. Sulawesi Selatan,1994,300797,18.59,559093
+Prov. Sulawesi Tenggara,1994,39255,18.73,73513
+Prov. Gorontalo,1994,0,0,0
+Prov. Sulawesi Barat,1994,0,0,0
+Prov. Maluku,1994,14827,15.25,22616
+Prov. Maluku Utara,1994,0,0,0
+Prov. Papua Barat,1994,0,0,0
+Prov. Papua,1994,3562,11.8,4204
+Prov. Nanggroe Aceh Darussalam,1995,20639,21.77,44921
+Prov. Sumatera Utara,1995,165230,22.49,371578
+Prov. Sumatera Barat,1995,20626,23.33,48115
+Prov. Riau,1995,10158,21.12,21455
+Prov. Jambi,1995,9499,14.96,14213
+Prov. Sumatera Selatan,1995,39165,21.12,82707
+Prov. Bengkulu,1995,28755,18.16,52232
+Prov. Lampung,1995,363678,23.18,843177
+Prov. Kepulauan Bangka Belitung,1995,0,0,0
+Prov. Kepulauan Riau,1995,0,0,0
+Prov. DKI Jakarta,1995,13,13.08,17
+Prov. Jawa Barat,1995,136280,24.37,332179
+Prov. Jawa Tengah,1995,672077,25.41,1707516
+Prov. D I Yogyakarta,1995,68897,21.8,150204
+Prov. Jawa Timur,1995,1187136,23.76,2820868
+Prov. Banten,1995,0,0,0
+Prov. Bali,1995,42357,21.44,90800
+Prov. Nusa Tenggara Barat,1995,29556,17.66,52197
+Prov. Nusa Tenggara Timur,1995,254176,16.38,416362
+Prov. Kalimantan Barat,1995,20088,12.9,25922
+Prov. Kalimantan Tengah,1995,4648,14.95,6951
+Prov. Kalimantan Selatan,1995,13964,12.64,17645
+Prov. Kalimantan Timur,1995,8276,16.99,14062
+Prov. Sulawesi Utara,1995,79745,20.62,164431
+Prov. Sulawesi Tengah,1995,19029,13.62,25925
+Prov. Sulawesi Selatan,1995,343087,21.54,738935
+Prov. Sulawesi Tenggara,1995,39344,20.3,79858
+Prov. Gorontalo,1995,0,0,0
+Prov. Sulawesi Barat,1995,0,0,0
+Prov. Maluku,1995,14068,9.22,12966
+Prov. Maluku Utara,1995,0,0,0
+Prov. Papua Barat,1995,0,0,0
+Prov. Papua,1995,5209,14.64,7627
+Prov. Nanggroe Aceh Darussalam,1996,19677,23.16,45566
+Prov. Sumatera Utara,1996,174000,22.91,398707
+Prov. Sumatera Barat,1996,23676,22.55,53387
+Prov. Riau,1996,17953,21.64,38853
+Prov. Jambi,1996,11975,14.94,17895
+Prov. Sumatera Selatan,1996,40307,21.12,85141
+Prov. Bengkulu,1996,29708,18.16,53940
+Prov. Lampung,1996,403264,23.27,938395
+Prov. Kepulauan Bangka Belitung,1996,0,0,0
+Prov. Kepulauan Riau,1996,0,0,0
+Prov. DKI Jakarta,1996,14,19.29,27
+Prov. Jawa Barat,1996,132538,25.97,344242
+Prov. Jawa Tengah,1996,614928,27.69,1702890
+Prov. D I Yogyakarta,1996,65773,21.8,143394
+Prov. Jawa Timur,1996,1269529,26.92,3417489
+Prov. Banten,1996,0,0,0
+Prov. Bali,1996,42294,21.68,91704
+Prov. Nusa Tenggara Barat,1996,34570,18.94,65472
+Prov. Nusa Tenggara Timur,1996,252808,21.83,551855
+Prov. Kalimantan Barat,1996,25003,14.92,37307
+Prov. Kalimantan Tengah,1996,6685,15.15,10127
+Prov. Kalimantan Selatan,1996,21598,13.14,28372
+Prov. Kalimantan Timur,1996,6529,16.57,10819
+Prov. Sulawesi Utara,1996,77606,22.78,176775
+Prov. Sulawesi Tengah,1996,18441,20.31,37453
+Prov. Sulawesi Selatan,1996,337148,24.98,842332
+Prov. Sulawesi Tenggara,1996,43025,19.46,83744
+Prov. Gorontalo,1996,0,0,0
+Prov. Sulawesi Barat,1996,0,0,0
+Prov. Maluku,1996,11076,15.05,16670
+Prov. Maluku Utara,1996,0,0,0
+Prov. Papua Barat,1996,0,0,0
+Prov. Papua,1996,5334,15.47,8251
+Prov. Nanggroe Aceh Darussalam,1997,25312,23.18,58679
+Prov. Sumatera Utara,1997,198246,23.19,459715
+Prov. Sumatera Barat,1997,20765,22.63,47001
+Prov. Riau,1997,16320,21.6,35253
+Prov. Jambi,1997,10524,16.88,17764
+Prov. Sumatera Selatan,1997,50777,21.36,108450
+Prov. Bengkulu,1997,33232,18.38,61081
+Prov. Lampung,1997,359058,30.1,1080691
+Prov. Kepulauan Bangka Belitung,1997,0,0,0
+Prov. Kepulauan Riau,1997,0,0,0
+Prov. DKI Jakarta,1997,11,18.18,20
+Prov. Jawa Barat,1997,127994,26.25,336014
+Prov. Jawa Tengah,1997,461420,28.01,1292325
+Prov. D I Yogyakarta,1997,59508,27.8,165438
+Prov. Jawa Timur,1997,1099603,27.72,3048041
+Prov. Banten,1997,0,0,0
+Prov. Bali,1997,44190,24.3,107395
+Prov. Nusa Tenggara Barat,1997,36070,19.6,70702
+Prov. Nusa Tenggara Timur,1997,250460,22.26,557457
+Prov. Kalimantan Barat,1997,25440,16.11,40984
+Prov. Kalimantan Tengah,1997,4444,15.85,7042
+Prov. Kalimantan Selatan,1997,18212,14.46,26334
+Prov. Kalimantan Timur,1997,5418,17.5,9480
+Prov. Sulawesi Utara,1997,65286,21.52,140473
+Prov. Sulawesi Tengah,1997,12465,21.65,26986
+Prov. Sulawesi Selatan,1997,321824,27.1,872070
+Prov. Sulawesi Tenggara,1997,38065,19.93,75882
+Prov. Gorontalo,1997,0,0,0
+Prov. Sulawesi Barat,1997,0,0,0
+Prov. Maluku,1997,11035,15.5,17101
+Prov. Maluku Utara,1997,0,0,0
+Prov. Papua Barat,1997,0,0,0
+Prov. Papua,1997,6116,15.16,9269
+Prov. Nanggroe Aceh Darussalam,1998,29000,22.64,65660
+Prov. Sumatera Utara,1998,183332,27.81,509809
+Prov. Sumatera Barat,1998,29129,22.56,65701
+Prov. Riau,1998,19261,21.51,41433
+Prov. Jambi,1998,18345,16.53,30320
+Prov. Sumatera Selatan,1998,48763,21.6,105309
+Prov. Bengkulu,1998,36119,17.74,64062
+Prov. Lampung,1998,374840,29.66,1111832
+Prov. Kepulauan Bangka Belitung,1998,0,0,0
+Prov. Kepulauan Riau,1998,0,0,0
+Prov. DKI Jakarta,1998,45,17.33,78
+Prov. Jawa Barat,1998,158993,26.82,426430
+Prov. Jawa Tengah,1998,648268,27.49,1781846
+Prov. D I Yogyakarta,1998,62164,25.32,157382
+Prov. Jawa Timur,1998,1348462,27.92,3765141
+Prov. Banten,1998,0,0,0
+Prov. Bali,1998,46013,24.76,113921
+Prov. Nusa Tenggara Barat,1998,39971,19.37,77412
+Prov. Nusa Tenggara Timur,1998,231981,20.85,483793
+Prov. Kalimantan Barat,1998,20257,16.1,32614
+Prov. Kalimantan Tengah,1998,6010,15.06,9049
+Prov. Kalimantan Selatan,1998,21396,14.99,32064
+Prov. Kalimantan Timur,1998,7032,16.69,11733
+Prov. Sulawesi Utara,1998,73198,21.02,153878
+Prov. Sulawesi Tengah,1998,20932,20.93,43815
+Prov. Sulawesi Selatan,1998,338263,27.1,916585
+Prov. Sulawesi Tenggara,1998,44594,21.82,97308
+Prov. Gorontalo,1998,0,0,0
+Prov. Sulawesi Barat,1998,0,0,0
+Prov. Maluku,1998,6130,13.71,8404
+Prov. Maluku Utara,1998,0,0,0
+Prov. Papua Barat,1998,0,0,0
+Prov. Papua,1998,3421,14.55,4978
+Prov. Nanggroe Aceh Darussalam,1999,30545,24.37,74449
+Prov. Sumatera Utara,1999,199355,31.08,619667
+Prov. Sumatera Barat,1999,26140,23.01,60161
+Prov. Riau,1999,25890,21.75,56317
+Prov. Jambi,1999,18940,16.12,30533
+Prov. Sumatera Selatan,1999,52995,21.89,116020
+Prov. Bengkulu,1999,29718,18.57,55178
+Prov. Lampung,1999,399827,29.42,1176489
+Prov. Kepulauan Bangka Belitung,1999,0,0,0
+Prov. Kepulauan Riau,1999,0,0,0
+Prov. DKI Jakarta,1999,34,19.71,67
+Prov. Jawa Barat,1999,147661,28.33,418314
+Prov. Jawa Tengah,1999,543994,28.04,1525281
+Prov. D I Yogyakarta,1999,61919,23.84,147628
+Prov. Jawa Timur,1999,1132407,27.82,3150869
+Prov. Banten,1999,0,0,0
+Prov. Bali,1999,38524,25.01,96342
+Prov. Nusa Tenggara Barat,1999,35739,19.87,71005
+Prov. Nusa Tenggara Timur,1999,237383,20.79,493535
+Prov. Kalimantan Barat,1999,23970,15.79,37848
+Prov. Kalimantan Tengah,1999,7710,15.1,11645
+Prov. Kalimantan Selatan,1999,23058,15.14,34905
+Prov. Kalimantan Timur,1999,7763,17.49,13577
+Prov. Sulawesi Utara,1999,94012,22.18,208538
+Prov. Sulawesi Tengah,1999,28229,21.25,59980
+Prov. Sulawesi Selatan,1999,241176,27.04,652223
+Prov. Sulawesi Tenggara,1999,37918,20.35,77152
+Prov. Gorontalo,1999,0,0,0
+Prov. Sulawesi Barat,1999,0,0,0
+Prov. Maluku,1999,7843,13.86,10870
+Prov. Maluku Utara,1999,0,0,0
+Prov. Papua Barat,1999,0,0,0
+Prov. Papua,1999,3607,15.09,5443
+Prov. Nanggroe Aceh Darussalam,2000,15576,23.52,36642
+Prov. Sumatera Utara,2000,221906,30.05,666764
+Prov. Sumatera Barat,2000,23837,23.65,56386
+Prov. Riau,2000,22253,21.79,48493
+Prov. Jambi,2000,12496,19.91,24875
+Prov. Sumatera Selatan,2000,41280,22.9,94528
+Prov. Bengkulu,2000,25397,18.36,46638
+Prov. Lampung,2000,382401,29.37,1122954
+Prov. Kepulauan Bangka Belitung,2000,0,0,0
+Prov. Kepulauan Riau,2000,0,0,0
+Prov. DKI Jakarta,2000,44,17.73,78
+Prov. Jawa Barat,2000,138957,29.65,412020
+Prov. Jawa Tengah,2000,581893,29.45,1713805
+Prov. D I Yogyakarta,2000,65953,26.31,173536
+Prov. Jawa Timur,2000,1170481,29.8,3487735
+Prov. Banten,2000,0,0,0
+Prov. Bali,2000,38258,24.89,95206
+Prov. Nusa Tenggara Barat,2000,31948,20.73,66216
+Prov. Nusa Tenggara Timur,2000,253224,20.82,527230
+Prov. Kalimantan Barat,2000,18237,17.34,31631
+Prov. Kalimantan Tengah,2000,6319,14.62,9239
+Prov. Kalimantan Selatan,2000,24578,15.06,37011
+Prov. Kalimantan Timur,2000,7844,17.63,13827
+Prov. Sulawesi Utara,2000,100718,22.3,224599
+Prov. Sulawesi Tengah,2000,23479,22.71,53323
+Prov. Sulawesi Selatan,2000,241969,26.16,633020
+Prov. Sulawesi Tenggara,2000,41882,20.81,87141
+Prov. Gorontalo,2000,0,0,0
+Prov. Sulawesi Barat,2000,0,0,0
+Prov. Maluku,2000,4828,14.69,7092
+Prov. Maluku Utara,2000,0,0,0
+Prov. Papua Barat,2000,0,0,0
+Prov. Papua,2000,4560,15.15,6910
+Prov. Nanggroe Aceh Darussalam,2001,20605,24.86,51232
+Prov. Sumatera Utara,2001,198709,31.91,634162
+Prov. Sumatera Barat,2001,18389,26.55,48820
+Prov. Riau,2001,18349,21.75,39915
+Prov. Jambi,2001,11485,20.88,23975
+Prov. Sumatera Selatan,2001,28831,23.85,68769
+Prov. Bengkulu,2001,22576,18.41,41557
+Prov. Lampung,2001,378251,29.69,1122886
+Prov. Kepulauan Bangka Belitung,2001,545,20.4,1112
+Prov. Kepulauan Riau,2001,0,0,0
+Prov. DKI Jakarta,2001,35,18.29,64
+Prov. Jawa Barat,2001,117670,30.68,361061
+Prov. Jawa Tengah,2001,528860,29.38,1553920
+Prov. D I Yogyakarta,2001,71374,26.28,187577
+Prov. Jawa Timur,2001,1135832,31.08,3529968
+Prov. Banten,2001,12534,24.25,30396
+Prov. Bali,2001,31858,25.01,79692
+Prov. Nusa Tenggara Barat,2001,24969,20.34,50777
+Prov. Nusa Tenggara Timur,2001,258332,21.42,553298
+Prov. Kalimantan Barat,2001,16337,21.73,35500
+Prov. Kalimantan Tengah,2001,5073,15.43,7830
+Prov. Kalimantan Selatan,2001,21019,18.21,38279
+Prov. Kalimantan Timur,2001,5973,17.37,10378
+Prov. Sulawesi Utara,2001,68443,21.98,150459
+Prov. Sulawesi Tengah,2001,20330,24.15,49095
+Prov. Sulawesi Selatan,2001,191960,26.85,515405
+Prov. Sulawesi Tenggara,2001,28771,20.99,60385
+Prov. Gorontalo,2001,36610,22.32,81720
+Prov. Sulawesi Barat,2001,0,0,0
+Prov. Maluku,2001,6673,15.51,10351
+Prov. Maluku Utara,2001,0,0,0
+Prov. Papua Barat,2001,0,0,0
+Prov. Papua,2001,5473,15.73,8609
+Prov. Nanggroe Aceh Darussalam,2002,23874,25.18,60105
+Prov. Sumatera Utara,2002,198670,32.24,640593
+Prov. Sumatera Barat,2002,25644,26.22,67241
+Prov. Riau,2002,17790,21.69,38588
+Prov. Jambi,2002,11528,23.18,26722
+Prov. Sumatera Selatan,2002,21751,24.57,53436
+Prov. Bengkulu,2002,28948,18.03,52190
+Prov. Lampung,2002,320057,30.91,989323
+Prov. Kepulauan Bangka Belitung,2002,434,21.45,931
+Prov. Kepulauan Riau,2002,0,0,0
+Prov. DKI Jakarta,2002,28,18.21,51
+Prov. Jawa Barat,2002,126146,36.8,464264
+Prov. Jawa Tengah,2002,495224,30.4,1505706
+Prov. D I Yogyakarta,2002,62309,27.4,170753
+Prov. Jawa Timur,2002,1043285,35.39,3692146
+Prov. Banten,2002,8354,23,19216
+Prov. Bali,2002,34395,28.66,98584
+Prov. Nusa Tenggara Barat,2002,28847,20.03,57785
+Prov. Nusa Tenggara Timur,2002,258460,22.48,580900
+Prov. Kalimantan Barat,2002,20496,22.84,46813
+Prov. Kalimantan Tengah,2002,4823,16.03,7730
+Prov. Kalimantan Selatan,2002,16760,17.31,29012
+Prov. Kalimantan Timur,2002,6372,19.12,12181
+Prov. Sulawesi Utara,2002,55650,21.01,116897
+Prov. Sulawesi Tengah,2002,21810,22.24,48498
+Prov. Sulawesi Selatan,2002,205909,32.1,661005
+Prov. Sulawesi Tenggara,2002,33789,20.17,68148
+Prov. Gorontalo,2002,45718,28.49,130251
+Prov. Sulawesi Barat,2002,0,0,0
+Prov. Maluku,2002,4867,14.58,7096
+Prov. Maluku Utara,2002,0,0,0
+Prov. Papua Barat,2002,0,0,0
+Prov. Papua,2002,4895,16.22,7940
+Prov. Nanggroe Aceh Darussalam,2003,25188,26.75,67386
+Prov. Sumatera Utara,2003,210782,32.61,687360
+Prov. Sumatera Barat,2003,24253,35.22,85410
+Prov. Riau,2003,14581,21.7,31635
+Prov. Jambi,2003,8966,30.2,27077
+Prov. Sumatera Selatan,2003,21404,27.69,59261
+Prov. Bengkulu,2003,28214,18.69,52723
+Prov. Lampung,2003,330852,32.88,1087751
+Prov. Kepulauan Bangka Belitung,2003,708,29,2053
+Prov. Kepulauan Riau,2003,0,0,0
+Prov. DKI Jakarta,2003,30,19.67,59
+Prov. Jawa Barat,2003,105167,42.19,443729
+Prov. Jawa Tengah,2003,559973,34.4,1926243
+Prov. D I Yogyakarta,2003,65062,31.37,204129
+Prov. Jawa Timur,2003,1169388,35.76,4181550
+Prov. Banten,2003,8331,29.86,24875
+Prov. Bali,2003,29941,30,89819
+Prov. Nusa Tenggara Barat,2003,31217,20.57,64228
+Prov. Nusa Tenggara Timur,2003,257724,22.63,583355
+Prov. Kalimantan Barat,2003,31438,26.9,84581
+Prov. Kalimantan Tengah,2003,5640,16.36,9226
+Prov. Kalimantan Selatan,2003,15371,19.62,30158
+Prov. Kalimantan Timur,2003,5311,20.71,10997
+Prov. Sulawesi Utara,2003,65656,22.03,144668
+Prov. Sulawesi Tengah,2003,22309,22.04,49177
+Prov. Sulawesi Selatan,2003,213818,30.44,650832
+Prov. Sulawesi Tenggara,2003,37927,23.11,87650
+Prov. Gorontalo,2003,58716,31.34,183998
+Prov. Sulawesi Barat,2003,0,0,0
+Prov. Maluku,2003,5039,15.67,7895
+Prov. Maluku Utara,2003,2464,15.33,3778
+Prov. Papua Barat,2003,0,0,0
+Prov. Papua,2003,3041,15.91,4839
+Prov. Nanggroe Aceh Darussalam,2004,25748,30.2,77747
+Prov. Sumatera Utara,2004,214885,33.16,712560
+Prov. Sumatera Barat,2004,32546,36.31,118170
+Prov. Riau,2004,19285,21.84,42122
+Prov. Jambi,2004,8724,31.57,27540
+Prov. Sumatera Selatan,2004,23859,27.34,65234
+Prov. Bengkulu,2004,20049,24.94,50012
+Prov. Lampung,2004,364842,33.36,1216974
+Prov. Kepulauan Bangka Belitung,2004,1076,29.73,3199
+Prov. Kepulauan Riau,2004,0,0,0
+Prov. DKI Jakarta,2004,29,18.97,55
+Prov. Jawa Barat,2004,119872,45.84,549442
+Prov. Jawa Tengah,2004,521645,35.2,1836233
+Prov. D I Yogyakarta,2004,67645,31.3,211730
+Prov. Jawa Timur,2004,1141671,36.21,4133762
+Prov. Banten,2004,8818,28.47,25102
+Prov. Bali,2004,25782,26.54,68424
+Prov. Nusa Tenggara Barat,2004,33140,21.51,71276
+Prov. Nusa Tenggara Timur,2004,264907,23.51,622811
+Prov. Kalimantan Barat,2004,35747,28.69,102555
+Prov. Kalimantan Tengah,2004,580,16.71,969
+Prov. Kalimantan Selatan,2004,15491,29.49,45686
+Prov. Kalimantan Timur,2004,5466,22.71,12412
+Prov. Sulawesi Utara,2004,66196,22.68,150128
+Prov. Sulawesi Tengah,2004,22121,24.16,53450
+Prov. Sulawesi Selatan,2004,196393,34.36,674716
+Prov. Sulawesi Tenggara,2004,35151,22.23,78147
+Prov. Gorontalo,2004,72529,34.64,251214
+Prov. Sulawesi Barat,2004,0,0,0
+Prov. Maluku,2004,5413,23.05,12477
+Prov. Maluku Utara,2004,3247,15.57,5056
+Prov. Papua Barat,2004,0,0,0
+Prov. Papua,2004,4057,14.89,6040
+Prov. Nanggroe Aceh Darussalam,2005,29517,31.99,94426
+Prov. Sumatera Utara,2005,218569,33.65,735456
+Prov. Sumatera Barat,2005,39762,39.52,157147
+Prov. Riau,2005,16524,22.04,36421
+Prov. Jambi,2005,8874,33.44,29679
+Prov. Sumatera Selatan,2005,26884,28.11,75566
+Prov. Bengkulu,2005,31998,26.28,84089
+Prov. Lampung,2005,411629,34.96,1439000
+Prov. Kepulauan Bangka Belitung,2005,945,29.23,2762
+Prov. Kepulauan Riau,2005,290,20.14,584
+Prov. DKI Jakarta,2005,37,18.11,67
+Prov. Jawa Barat,2005,117413,50.01,587186
+Prov. Jawa Tengah,2005,596303,36.75,2191258
+Prov. D I Yogyakarta,2005,72714,34.24,248960
+Prov. Jawa Timur,2005,1206177,36.47,4398502
+Prov. Banten,2005,10324,28.82,29751
+Prov. Bali,2005,30810,26.58,81884
+Prov. Nusa Tenggara Barat,2005,39380,24.49,96458
+Prov. Nusa Tenggara Timur,2005,239588,23.06,552440
+Prov. Kalimantan Barat,2005,37743,33.77,127458
+Prov. Kalimantan Tengah,2005,1447,16.59,2400
+Prov. Kalimantan Selatan,2005,15604,30.83,48103
+Prov. Kalimantan Timur,2005,4722,23.68,11180
+Prov. Sulawesi Utara,2005,71644,27.26,195305
+Prov. Sulawesi Tengah,2005,26769,25.26,67618
+Prov. Sulawesi Selatan,2005,206569,34.18,705995
+Prov. Sulawesi Tenggara,2005,32665,22.39,73153
+Prov. Gorontalo,2005,107752,37.13,400046
+Prov. Sulawesi Barat,2005,5231,33.15,17343
+Prov. Maluku,2005,6089,23.42,14262
+Prov. Maluku Utara,2005,6090,16.28,9914
+Prov. Papua Barat,2005,2080,15.95,3317
+Prov. Papua,2005,3844,16.04,6164
+Prov. Nanggroe Aceh Darussalam,2006,29583,32.73,96838
+Prov. Sumatera Utara,2006,200146,34.08,682024
+Prov. Sumatera Barat,2006,4301,47.04,202298
+Prov. Riau,2006,15539,22.35,34728
+Prov. Jambi,2006,8637,33.91,29288
+Prov. Sumatera Selatan,2006,25199,29.32,73896
+Prov. Bengkulu,2006,31649,26,82296
+Prov. Lampung,2006,33264,35.59,1183982
+Prov. Kepulauan Bangka Belitung,2006,990,29.86,2956
+Prov. Kepulauan Riau,2006,436,20.53,895
+Prov. DKI Jakarta,2006,36,18.33,66
+Prov. Jawa Barat,2006,115797,49.51,573263
+Prov. Jawa Tengah,2006,497928,37.27,1856023
+Prov. D I Yogyakarta,2006,7027,31.82,22362
+Prov. Jawa Timur,2006,1099184,36.49,4011182
+Prov. Banten,2006,8155,29.94,24417
+Prov. Bali,2006,28131,27.76,78105
+Prov. Nusa Tenggara Barat,2006,40617,25.6,103963
+Prov. Nusa Tenggara Timur,2006,25241,23.1,582964
+Prov. Kalimantan Barat,2006,38271,35.74,136777
+Prov. Kalimantan Tengah,2006,2569,28.68,7367
+Prov. Kalimantan Selatan,2006,17042,34.2,58283
+Prov. Kalimantan Timur,2006,6051,23.81,1441
+Prov. Sulawesi Utara,2006,82189,29.53,242714
+Prov. Sulawesi Tengah,2006,25587,25.96,66433
+Prov. Sulawesi Selatan,2006,206387,33.73,696084
+Prov. Sulawesi Tenggara,2006,33343,22.4,74672
+Prov. Gorontalo,2006,109792,37.91,416222
+Prov. Sulawesi Barat,2006,5201,34.82,18109
+Prov. Maluku,2006,6463,23.04,14888
+Prov. Maluku Utara,2006,6512,16.47,10727
+Prov. Papua Barat,2006,1953,16.03,313
+Prov. Papua,2006,4088,16.74,6843
+Prov. Nanggroe Aceh Darussalam,2007,36774,34.03,125155
+Prov. Sumatera Utara,2007,229882,35.01,80485
+Prov. Sumatera Barat,2007,43182,51.7,223233
+Prov. Riau,2007,18379,21.99,4041
+Prov. Jambi,2007,8655,34.69,30028
+Prov. Sumatera Selatan,2007,25908,32.45,84081
+Prov. Bengkulu,2007,27117,30.75,83385
+Prov. Lampung,2007,369971,36.4,1346821
+Prov. Kepulauan Bangka Belitung,2007,904,30.27,2736
+Prov. Kepulauan Riau,2007,439,20.34,893
+Prov. DKI Jakarta,2007,20,19.5,39
+Prov. Jawa Barat,2007,113373,50.94,577513
+Prov. Jawa Tengah,2007,571013,39.12,2233992
+Prov. D I Yogyakarta,2007,70216,36.77,258187
+Prov. Jawa Timur,2007,1153496,36.86,4252182
+Prov. Banten,2007,6736,30.76,20723
+Prov. Bali,2007,24021,28.81,69209
+Prov. Nusa Tenggara Barat,2007,42955,28.08,120612
+Prov. Nusa Tenggara Timur,2007,217478,23.65,51436
+Prov. Kalimantan Barat,2007,36295,42.46,154118
+Prov. Kalimantan Tengah,2007,1385,28.67,3971
+Prov. Kalimantan Selatan,2007,22241,45.39,100957
+Prov. Kalimantan Timur,2007,4919,23.62,1162
+Prov. Sulawesi Utara,2007,115664,35.17,406759
+Prov. Sulawesi Tengah,2007,40516,29.45,119324
+Prov. Sulawesi Selatan,2007,262436,36.96,969955
+Prov. Sulawesi Tenggara,2007,40975,23.68,97037
+Prov. Gorontalo,2007,119027,48.12,572785
+Prov. Sulawesi Barat,2007,7359,36.19,26633
+Prov. Maluku,2007,6761,23.2,15685
+Prov. Maluku Utara,2007,6568,16.43,10793
+Prov. Papua Barat,2007,1518,15.99,2428
+Prov. Papua,2007,4141,17.03,7053
+Prov. Nanggroe Aceh Darussalam,2008,34164,33.04,112894
+Prov. Sumatera Utara,2008,240413,45.71,1098969
+Prov. Sumatera Barat,2008,63219,55.65,351843
+Prov. Riau,2008,21397,22.41,47959
+Prov. Jambi,2008,9520,36.36,34616
+Prov. Sumatera Selatan,2008,31716,31.98,101439
+Prov. Bengkulu,2008,35661,31.36,111826
+Prov. Lampung,2008,387549,46.7,1809886
+Prov. Kepulauan Bangka Belitung,2008,393,30.36,1193
+Prov. Kepulauan Riau,2008,531,21.19,1125
+Prov. DKI Jakarta,2008,20,19.5,39
+Prov. Jawa Barat,2008,118976,53.78,639822
+Prov. Jawa Tengah,2008,639354,41.92,2679914
+Prov. D I Yogyakarta,2008,71164,40.1,285372
+Prov. Jawa Timur,2008,1235933,40.88,5053107
+Prov. Banten,2008,6288,32.08,20169
+Prov. Bali,2008,27251,28.48,77619
+Prov. Nusa Tenggara Barat,2008,59078,33.22,196263
+Prov. Nusa Tenggara Timur,2008,270717,24.86,673112
+Prov. Kalimantan Barat,2008,42834,42.35,181407
+Prov. Kalimantan Tengah,2008,2104,28.43,5982
+Prov. Kalimantan Selatan,2008,20116,47.26,95064
+Prov. Kalimantan Timur,2008,5375,23.8,12795
+Prov. Sulawesi Utara,2008,131791,35.36,466041
+Prov. Sulawesi Tengah,2008,38209,35.83,136907
+Prov. Sulawesi Selatan,2008,285094,41.94,1195691
+Prov. Sulawesi Tenggara,2008,37249,24.98,93064
+Prov. Gorontalo,2008,156436,48.17,753598
+Prov. Sulawesi Barat,2008,9110,44.18,40252
+Prov. Maluku,2008,8045,23.52,18924
+Prov. Maluku Utara,2008,6834,16.82,11493
+Prov. Papua Barat,2008,1070,15.99,1711
+Prov. Papua,2008,4113,17.4,7155
+Prov. Nanggroe Aceh Darussalam,2009,39731,34.67,137753
+Prov. Sumatera Utara,2009,247782,47.08,1166548
+Prov. Sumatera Barat,2009,70882,57.11,404795
+Prov. Riau,2009,25016,22.59,56521
+Prov. Jambi,2009,10112,37.75,38169
+Prov. Sumatera Selatan,2009,31693,35.71,113167
+Prov. Bengkulu,2009,28205,33.26,93798
+Prov. Lampung,2009,434542,47.58,2067710
+Prov. Kepulauan Bangka Belitung,2009,458,30.63,1403
+Prov. Kepulauan Riau,2009,502,21.2,1064
+Prov. DKI Jakarta,2009,16,20,32
+Prov. Jawa Barat,2009,136707,57.61,787599
+Prov. Jawa Tengah,2009,661706,46.21,3057845
+Prov. D I Yogyakarta,2009,74563,42.24,314937
+Prov. Jawa Timur,2009,1295070,40.67,5266720
+Prov. Banten,2009,8425,32.15,27083
+Prov. Bali,2009,32305,28.79,92998
+Prov. Nusa Tenggara Barat,2009,81543,37.88,308863
+Prov. Nusa Tenggara Timur,2009,250536,25.5,638899
+Prov. Kalimantan Barat,2009,41302,40.39,166833
+Prov. Kalimantan Tengah,2009,2821,28.53,8048
+Prov. Kalimantan Selatan,2009,22979,49.56,113885
+Prov. Kalimantan Timur,2009,5141,24.35,12520
+Prov. Sulawesi Utara,2009,126349,35.69,450989
+Prov. Sulawesi Tengah,2009,46245,35.52,164282
+Prov. Sulawesi Selatan,2009,299669,46.58,1395742
+Prov. Sulawesi Tenggara,2009,27214,26.33,71655
+Prov. Gorontalo,2009,124798,45.6,569110
+Prov. Sulawesi Barat,2009,11694,49.87,58320
+Prov. Maluku,2009,6749,23.5,15859
+Prov. Maluku Utara,2009,10984,16.6,18229
+Prov. Papua Barat,2009,965,16.42,1585
+Prov. Papua,2009,3955,17.16,6787
+Prov. Nanggroe Aceh Darussalam,2010,43885,38.07,167090
+Prov. Sumatera Utara,2010,274822,50.13,1377718
+Prov. Sumatera Barat,2010,59801,59.24,354262
+Prov. Riau,2010,18044,23.2,41862
+Prov. Jambi,2010,8280,37.07,30691
+Prov. Sumatera Selatan,2010,33769,37.25,125796
+Prov. Bengkulu,2010,20516,36.23,74331
+Prov. Lampung,2010,447509,47.52,2126571
+Prov. Kepulauan Bangka Belitung,2010,341,30.94,1055
+Prov. Kepulauan Riau,2010,454,21.17,961
+Prov. DKI Jakarta,2010,15,20.67,31
+Prov. Jawa Barat,2010,153778,60.08,923962
+Prov. Jawa Tengah,2010,631816,48.41,3058710
+Prov. D I Yogyakarta,2010,86837,39.8,345576
+Prov. Jawa Timur,2010,1257721,44.42,5587318
+Prov. Banten,2010,8697,32.84,28557
+Prov. Bali,2010,26706,24.85,66355
+Prov. Nusa Tenggara Barat,2010,61593,40.43,249005
+Prov. Nusa Tenggara Timur,2010,244583,26.72,653620
+Prov. Kalimantan Barat,2010,45014,37.38,168273
+Prov. Kalimantan Tengah,2010,3247,28.78,9345
+Prov. Kalimantan Selatan,2010,22584,51.56,116449
+Prov. Kalimantan Timur,2010,4693,25.56,11993
+Prov. Sulawesi Utara,2010,121930,36.59,446144
+Prov. Sulawesi Tengah,2010,42747,37.97,162306
+Prov. Sulawesi Selatan,2010,303375,44.27,1343044
+Prov. Sulawesi Tenggara,2010,29607,25.28,74840
+Prov. Gorontalo,2010,143833,47.22,679167
+Prov. Sulawesi Barat,2010,13308,43.6,58020
+Prov. Maluku,2010,6293,24.27,15273
+Prov. Maluku Utara,2010,10813,19,20546
+Prov. Papua Barat,2010,1162,16.62,1931
+Prov. Papua,2010,3903,17.51,6834
+Prov. Nanggroe Aceh Darussalam,2011,41853,40.35,168861
+Prov. Sumatera Utara,2011,255291,50.71,1294645
+Prov. Sumatera Barat,2011,71116,66.35,471849
+Prov. Riau,2011,14139,23.48,33197
+Prov. Jambi,2011,6706,38.06,25521
+Prov. Sumatera Selatan,2011,32965,38.13,125688
+Prov. Bengkulu,2011,22215,39.33,87362
+Prov. Lampung,2011,380917,47.72,1817906
+Prov. Kepulauan Bangka Belitung,2011,277,30.69,850
+Prov. Kepulauan Riau,2011,434,21.27,923
+Prov. DKI Jakarta,2011,12,19.17,23
+Prov. Jawa Barat,2011,147152,64.23,945104
+Prov. Jawa Tengah,2011,520149,53.3,2772575
+Prov. D I Yogyakarta,2011,69768,41.8,291596
+Prov. Jawa Timur,2011,1204063,45.21,5443705
+Prov. Banten,2011,4600,30.14,13863
+Prov. Bali,2011,22739,28.41,64606
+Prov. Nusa Tenggara Barat,2011,89307,51.16,456915
+Prov. Nusa Tenggara Timur,2011,246893,21.25,524638
+Prov. Kalimantan Barat,2011,45593,35.27,160819
+Prov. Kalimantan Tengah,2011,3195,28.82,9208
+Prov. Kalimantan Selatan,2011,19487,51.2,99779
+Prov. Kalimantan Timur,2011,2965,24.76,7341
+Prov. Sulawesi Utara,2011,119850,36.59,438504
+Prov. Sulawesi Tengah,2011,41218,39.26,161810
+Prov. Sulawesi Selatan,2011,297126,47.8,1420154
+Prov. Sulawesi Tenggara,2011,28892,23.53,67997
+Prov. Gorontalo,2011,135754,44.62,605782
+Prov. Sulawesi Barat,2011,17372,47.78,82995
+Prov. Maluku,2011,4808,28.86,13875
+Prov. Maluku Utara,2011,12733,20.54,26149
+Prov. Papua Barat,2011,1278,16.63,2125
+Prov. Papua,2011,3825,18,6885
+Prov. Nanggroe Aceh Darussalam,2012,43675,38.3,167285
+Prov. Sumatera Utara,2012,243098,55.41,1347124
+Prov. Sumatera Barat,2012,75657,65.49,495497
+Prov. Riau,2012,13284,23.66,31433
+Prov. Jambi,2012,6587,38.82,25571
+Prov. Sumatera Selatan,2012,28617,39.46,112917
+Prov. Bengkulu,2012,22653,45.81,103771
+Prov. Lampung,2012,360264,48.86,1760275
+Prov. Kepulauan Bangka Belitung,2012,268,36.08,967
+Prov. Kepulauan Riau,2012,390,21.77,849
+Prov. DKI Jakarta,2012,3,20,6
+Prov. Jawa Barat,2012,148601,69.22,1028653
+Prov. Jawa Tengah,2012,553372,54.97,3041630
+Prov. D I Yogyakarta,2012,73766,45.63,336608
+Prov. Jawa Timur,2012,1232523,51.08,6295301
+Prov. Banten,2012,3074,31.94,9819
+Prov. Bali,2012,21008,29.45,61873
+Prov. Nusa Tenggara Barat,2012,117030,54.92,642674
+Prov. Nusa Tenggara Timur,2012,245323,25.66,629386
+Prov. Kalimantan Barat,2012,44642,38.11,170123
+Prov. Kalimantan Tengah,2012,2752,28.88,7947
+Prov. Kalimantan Selatan,2012,21723,51.59,112066
+Prov. Kalimantan Timur,2012,4104,24.22,9940
+Prov. Sulawesi Utara,2012,120272,36.61,440308
+Prov. Sulawesi Tengah,2012,37418,37.86,141649
+Prov. Sulawesi Selatan,2012,325329,46.58,1515329
+Prov. Sulawesi Tenggara,2012,30884,25.4,78447
+Prov. Gorontalo,2012,135543,47.57,644754
+Prov. Sulawesi Barat,2012,25141,48.75,122554
+Prov. Maluku,2012,4768,38.34,18281
+Prov. Maluku Utara,2012,11074,23.07,25543
+Prov. Papua Barat,2012,1199,17.09,2049
+Prov. Papua,2012,3553,17.99,6393
+Prov. Nanggroe Aceh Darussalam,2013,43444,40.34,175273
+Prov. Sumatera Utara,2013,211750,55.87,1183011
+Prov. Sumatera Barat,2013,81665,67.03,547417
+Prov. Riau,2013,11748,23.88,28052
+Prov. Jambi,2013,6504,39.5,25690
+Prov. Sumatera Selatan,2013,32558,51.43,167457
+Prov. Bengkulu,2013,18257,51.48,93988
+Prov. Lampung,2013,346284,50.83,1760126
+Prov. Kepulauan Bangka Belitung,2013,237,33.46,793
+Prov. Kepulauan Riau,2013,339,23.3,790
+Prov. DKI Jakarta,2013,0,0,0
+Prov. Jawa Barat,2013,152923,72.06,1101997
+Prov. Jawa Tengah,2013,532061,55.09,2930911
+Prov. D I Yogyakarta,2013,70772,40.92,289580
+Prov. Jawa Timur,2013,1199544,48.03,5760959
+Prov. Banten,2013,3583,33.6,12038
+Prov. Bali,2013,18223,31.59,57573
+Prov. Nusa Tenggara Barat,2013,110273,57.47,633773
+Prov. Nusa Tenggara Timur,2013,270394,26.17,707642
+Prov. Kalimantan Barat,2013,42597,37.43,159423
+Prov. Kalimantan Tengah,2013,2083,30.17,6284
+Prov. Kalimantan Selatan,2013,20629,51.89,107043
+Prov. Kalimantan Timur,2013,2300,25.33,5826
+Prov. Sulawesi Utara,2013,122237,36.65,448002
+Prov. Sulawesi Tengah,2013,34077,40.76,138890
+Prov. Sulawesi Selatan,2013,274046,45.62,1250202
+Prov. Sulawesi Tenggara,2013,27133,24.91,67578
+Prov. Gorontalo,2013,140423,47.65,669094
+Prov. Sulawesi Barat,2013,26261,48.13,126407
+Prov. Maluku,2013,3203,37.28,11940
+Prov. Maluku Utara,2013,10395,28.3,29421
+Prov. Papua Barat,2013,1213,17.09,2073
+Prov. Papua,2013,3005,23.41,7034
